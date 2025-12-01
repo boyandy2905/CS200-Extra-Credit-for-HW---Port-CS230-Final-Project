@@ -1,0 +1,5 @@
+Assets/Enemy2.png
+FrameSize 80 60
+HotSpot 40 30
+RectCollision -40 -30 40 30
+NumFrames 1

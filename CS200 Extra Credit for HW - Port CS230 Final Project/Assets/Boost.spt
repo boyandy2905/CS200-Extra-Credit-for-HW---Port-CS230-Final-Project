@@ -1,0 +1,6 @@
+Assets/Boost.png
+FrameSize 200 80
+HotSpot 190 70
+NumFrames 5
+Anim Assets/None.anm
+Anim Assets/Boost.anm
