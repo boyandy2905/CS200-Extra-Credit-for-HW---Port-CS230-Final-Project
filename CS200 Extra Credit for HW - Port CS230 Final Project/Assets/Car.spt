@@ -1,6 +1,0 @@
-Assets/Car.png
-FrameSize 100 60
-HotSpot 50 30
-HotSpot 50 30
-RectCollision -50 -30 50 30
-NumFrames 1
